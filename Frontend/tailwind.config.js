@@ -1,3 +1,4 @@
+import daisyui from "daisyui";
 
 // ! DaisyUI
 /** @type {import('tailwindcss').Config} */
@@ -6,9 +7,8 @@ export default {
   theme: {
     extend: {},
   },
-  plugins: [require('daisyui')],
+  plugins: [daisyui],
 };
-
 
 // ! Flowbite
 // /** @type {import('tailwindcss').Config} */
