@@ -20,3 +20,14 @@ export default {
 //   },
 //   plugins: [require("flowbite/plugin")],
 // };
+
+// module.exports = {
+//   theme: {
+//     extend: {
+//       backgroundImage: {
+//         'hero-pattern': "url('./assets/stadium.png')",
+//         'footer-texture': "url('/img/footer-texture.png')",
+//       }
+//     }
+//   }
+// }
